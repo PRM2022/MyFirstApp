@@ -227,7 +227,7 @@ st.markdown(f"Results {prob}%")
 
 #### Create label (called sent) from TextBlob polarity score to use in summary below
 
-if prob > .51:
+if prob > .5:
 
     label = "Probably"
 
