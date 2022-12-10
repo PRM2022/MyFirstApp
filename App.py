@@ -154,7 +154,7 @@ age = st.number_input('Enter Your Age',
 ####EndAge####
 
 
-s = pd.read_csv(r"C:\Users\prmai\OneDrive\Desktop\Lila\social_media_usage.csv")
+s = pd.read_csv(r"social_media_usage.csv")
 
 def clean_sm(x):
    
