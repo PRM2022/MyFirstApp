@@ -231,7 +231,7 @@ if prob > 50:
 
     label = "Probably"
 
-elif prob < 49.9
+elif prob < 49.9:
 
     label = "Probably Not"
 
